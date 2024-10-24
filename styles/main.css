@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#game-container {
+    width: 100vw;
+    height: 100vh;
+    max-width: 800px;
+    max-height: 600px;
+    margin: auto;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+    background-color: #222;
+}
+
+canvas {
+    display: block;
+}
+
+.inventory-panel {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    color: #FFD700;
+}
+
+.inventory-panel h3 {
+    color: #FFD700;
+    font-size: 22px;
+}
+
+.tooltip {
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.objective-text {
+    font-size: 18px;
+    color: #fff;
+    margin: 10px;
+}
+
+.message-box {
+    background-color: #444;
+    border: 2px solid #fff;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.button {
+    width: 40px;
+    height: 40px;
+    background-color: #666;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 5px;
+}

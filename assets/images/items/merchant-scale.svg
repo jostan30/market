@@ -1,0 +1,20 @@
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base -->
+  <rect x="130" y="160" width="40" height="20" fill="#8b4513"/>
+  
+  <!-- Center pole -->
+  <rect x="145" y="60" width="10" height="100" fill="#8b4513"/>
+  
+  <!-- Balance beam -->
+  <line x1="50" y1="60" x2="250" y2="60" stroke="#8b4513" stroke-width="8"/>
+  
+  <!-- Scale bowls -->
+  <path d="M40 100 Q50 90 60 100 Q70 110 50 120 Q30 110 40 100"
+        fill="none" stroke="#cd7f32" stroke-width="2"/>
+  <path d="M240 100 Q250 90 260 100 Q270 110 250 120 Q230 110 240 100"
+        fill="none" stroke="#cd7f32" stroke-width="2"/>
+  
+  <!-- Chains -->
+  <path d="M50 60 L50 100" stroke="#cd7f32" stroke-width="1" stroke-dasharray="2,2"/>
+  <path d="M250 60 L250 100" stroke="#cd7f32" stroke-width="1" stroke-dasharray="2,2"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <!-- Main bead -->
+  <circle cx="25" cy="25" r="20" fill="#000080"/>
+  
+  <!-- Light reflections -->
+  <ellipse cx="15" cy="15" rx="8" ry="6" fill="#4169E1" opacity="0.3"/>
+  <circle cx="18" cy="18" r="3" fill="#4169E1" opacity="0.5"/>
+  
+  <!-- Gold flecks -->
+  <circle cx="30" cy="20" r="1" fill="#FFD700"/>
+  <circle cx="22" cy="28" r="1" fill="#FFD700"/>
+  <circle cx="35" cy="25" r="1" fill="#FFD700"/>
+  <circle cx="28" cy="32" r="1" fill="#FFD700"/>
+  
+  <!-- Hole for string -->
+  <circle cx="25" cy="25" r="3" fill="#000066"/>
+</svg>

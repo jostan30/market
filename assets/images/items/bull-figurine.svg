@@ -1,0 +1,17 @@
+<svg viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Body -->
+  <path d="M50 80 Q100 60 150 80 Q160 100 150 120 Q100 140 50 120 Q40 100 50 80"
+        fill="#cd7f32" stroke="#8b4513" stroke-width="2"/>
+  
+  <!-- Head -->
+  <path d="M40 85 Q30 75 40 65 Q50 60 60 65 L50 80"
+        fill="#cd7f32" stroke="#8b4513" stroke-width="2"/>
+  
+  <!-- Horns -->
+  <path d="M35 65 Q25 55 35 45" fill="none" stroke="#8b4513" stroke-width="2"/>
+  <path d="M45 65 Q55 55 45 45" fill="none" stroke="#8b4513" stroke-width="2"/>
+  
+  <!-- Legs -->
+  <line x1="70" y1="120" x2="70" y2="140" stroke="#8b4513" stroke-width="3"/>
+  <line x1="130" y1="120" x2="130" y2="140" stroke="#8b4513" stroke-width="3"/>
+</svg>
